@@ -30,7 +30,7 @@ public class Program
   {
     // Create an instance of the derived class
     Dog dog = new Dog();
-    dog.Name = "Buddy";
+    dog.Name = "Smart Buddy";
 
     // Call methods from the base class
     dog.Eat();  // Output: Buddy is eating.
